@@ -1,7 +1,7 @@
 # Amir Aijaz — AI Engineer
 
 Building production LLM systems, RAG pipelines, and computer vision applications.  
-AI Engineer @ Viral Tech (Norway) · Applying MSc AI @ UT Austin 2026 · Karachi, Pakistan
+AI Engineer @ Viral Tech (Norway) · Karachi, Pakistan
 
 ---
 
